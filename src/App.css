@@ -1,0 +1,45 @@
+body {
+  background-color: #6c757d;
+}
+
+section {
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+  font-family: 'Hanalei Fill', cursive;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.joke {
+  text-align: center;
+  font-family: 'Hanalei Fill', cursive;
+  font-size: 25px; 
+}
+
+.btn {
+  margin: 10px;
+  font-family: 'Hanalei Fill', cursive;
+  font-size: 19px;
+}
+
+
