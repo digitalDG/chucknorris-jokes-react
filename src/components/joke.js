@@ -31,14 +31,10 @@ export default class Joke extends React.Component {
 
   render() {
     return (
-      <section className="hero is-primary">
-      <div className="hero-body">
-        <div className="container">
-          <div className="joke">{this.state.joke}</div>
-        </div>
+      <section>
+        <div className="joke">{this.state.joke}</div>
         <button className="btn" onClick={this.fetchJoke}>Get Joke</button>
-      </div>
-    </section>
+      </section>
     )
   }
 }
