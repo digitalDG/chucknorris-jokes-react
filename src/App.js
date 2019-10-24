@@ -11,9 +11,7 @@ class App extends Component {
           <img src={chuck} className="App-logo" alt="Chuck Norris" />
           <h1 className="App-title">Chuck Norris Joke Generator</h1>
         </header>
-        <div className="App-intro joke">
-          <Joke/>
-        </div>
+        <Joke/>
       </div>
     );
   }
