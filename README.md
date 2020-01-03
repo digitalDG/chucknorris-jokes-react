@@ -1,3 +1,6 @@
+Project is deployed on GitHub pages at https://digitalDG.github.io/chucknorris-jokes-react
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
